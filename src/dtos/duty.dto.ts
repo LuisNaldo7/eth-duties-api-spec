@@ -23,7 +23,7 @@ export class DutyDto {
 
   @ApiProperty({
     description:
-      'The unix time the valdator has to participate in teh synccommittee.',
+      'The unix time the valdator has to participate in the sync committee.',
     example: '1630357725',
     nullable: false,
   })
